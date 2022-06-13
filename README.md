@@ -1,1 +1,1 @@
-# CC_Silaren
+# SILAREN (C22-PS334) - Cloud Computing Configurations
